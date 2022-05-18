@@ -16,3 +16,6 @@ cd go-wasm-captcha-demo
 ```bash
 npx lite-server
 ```
+
+# References
+* https://habr.com/ru/company/otus/blog/666004/
